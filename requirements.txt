@@ -1,0 +1,15 @@
+click==8.1.7
+debugpy==1.6.7
+deepface==0.0.93
+face-recognition-models==0.3.0
+Flask==3.0.3
+gunicorn==23.0.0
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+tensorboard==2.13.0
+tensorboard-data-server==0.7.1
+tensorflow==2.13.0
+tensorflow-estimator==2.13.0
+tensorflow-intel==2.13.0
+tensorflow-io-gcs-filesystem==0.31.0
+Werkzeug==3.0.4
