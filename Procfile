@@ -1,1 +1,1 @@
-web: gunicorn sura-smart-no-db:app
+web: gunicorn wuzu-smart-no-db:app
